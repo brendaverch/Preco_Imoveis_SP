@@ -37,6 +37,15 @@ Para encontrar o modelo mais adequado aos dados, foram testados três algoritmos
 
 ## :rocket: Rodando o projeto
 Para rodar o repositório é necessário clonar o mesmo, dar o seguinte comando para iniciar o projeto:
+* Clone o repositório para sua máquina local:
 ```
-<pip install pandas numpy seaborn matplotlib shapely geopandas scikit-learn joblib>
+git clone https://github.com/brendaverch/Preco_Imoveis_SP.git
+```
+* Navegue até o diretório do projeto:
+```
+cd Preco_Imoveis_SP
+```
+* Certifique-se de que você possui as dependências necessárias instaladas. Você pode instalá-las executando:
+```
+pip install pandas numpy seaborn matplotlib shapely geopandas scikit-learn joblib
 ```
